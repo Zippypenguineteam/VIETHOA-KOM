@@ -1,7 +1,10 @@
 # VIETHOA-KOM
 FREE VIETHOA KOM
 Việt hóa chạy bằng cơm tự lấu:D
-NGHIÊM CẤM ĐEM ĐI BÁN HOẶC ĂN CẮP TRỤC LỢI FILES CỦA TÔI, NẾU TÔI PHÁT HIỆN RA TÔI SẼ VÔ HIỆU HÓA TOÀN BỘ TỆP NGAY LẬP TỨC, NGAY CẢ KHI BẠN ĐÃ DOW FILES VIETHOA CỦA TÔI VỀ MÁY RỒI THÌ VẪN SẼ KHÔNG THỂ SỬ DỤNG ĐƯỢC NỮA, BẠN CÓ THỂ THOẢI MÁI SHARE VỚI BẠN BÈ TỆP VIỆT HÓA CỦA TÔI MỘT CÁCH MIỄN PHÍ, YÊU CẦU KHÔNG THƯƠNG MẠI NÓ
+
+NGHIÊM CẤM ĐEM ĐI BÁN HOẶC ĂN CẮP TRỤC LỢI FILES CỦA TÔI, NẾU TÔI PHÁT HIỆN RA TÔI SẼ VÔ HIỆU HÓA TOÀN BỘ TỆP NGAY LẬP TỨC, NGAY CẢ KHI BẠN ĐÃ DOW FILES VIETHOA CỦA TÔI VỀ MÁY RỒI THÌ VẪN SẼ KHÔNG THỂ SỬ DỤNG ĐƯỢC NỮA, BẠN CÓ THỂ THOẢI MÁI SHARE VỚI BẠN BÈ TỆP VIỆT HÓA CỦA TÔI MỘT CÁCH MIỄN PHÍ, YÊU CẦU KHÔNG THƯƠNG MẠI NÓ.
+
+
 Ủng hộ tác giả tại trang chủ game itch.io: https://thepipiw.itch.io/kingdom-of-marionettes
 
 HƯỚNG DẪN CÀI ĐẶT
