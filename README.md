@@ -18,8 +18,8 @@ PC
 1. Tải game trên trang chủ chính thức, chọn phiên bản PC.zip và giải nén
 2. Dow thư mục VH tên: archivePC của tôi
 3. Vào thư mục game KOM, flow theo đường dẫn này: kingdom-of-marionettes-pc\KingdomOfMarionettes-2.0-pc\game
-4. Tại đây bạn sẽ thấy tệp archive.rpa của game
-5. Sao chép archive.rpa của tôi, và thay thế tệp archive.rpa của game gốc
+4. Tại đây bạn sẽ thấy thư mục tl của game
+5. Sao chép tl của tôi, và thay thế tệp tl của game gốc
 6. Khi làm xong quay trở lại game, nhấn mở game và bấm thay đổi ngôn ngữ VN
 
 MAC
