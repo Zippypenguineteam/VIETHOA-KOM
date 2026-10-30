@@ -8,6 +8,7 @@ NGHIÊM CẤM ĐEM ĐI BÁN HOẶC ĂN CẮP TRỤC LỢI FILES CỦA TÔI, NẾ
 Ủng hộ tác giả tại trang chủ game itch.io: https://thepipiw.itch.io/kingdom-of-marionettes
 
 HƯỚNG DẪN CÀI ĐẶT
+NHỚ TẮT DIỆT VIRUT khi giải nén tệp việt hoá
 
 PC 
 1. Tải game trên trang chủ chính thức, chọn phiên bản PC.zip và giải nén
